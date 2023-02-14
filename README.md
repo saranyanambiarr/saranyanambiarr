@@ -11,10 +11,10 @@ SARANYA NAMBIAR
 HOLA !
 
 - 👋 I’m @saranyanambiarr, Business Analyst at LTIMindtree.
-- 👀 I’m interested in DevOps, Technical Program Management and whatever the world has to offer me right now.
-- 🌱 I’m currently learning Kubernetes, Economics and real world use cases of FinTech
-- 💞️ I love speaking at public events and being organiser for the same. Looking to collaborate for the same 
-- 📫 How to reach me : Message me on LinkedIn.
+- 👀 I’m interested in DevOps and Product Management.
+- 🌱 I’m currently learning Kubernetes and Economics.
+- 💞️ I love speaking at public events and being organiser for the same. Looking to collaborate.
+- 📫 How to reach me : Message me on LinkedIn or Twitter.
 
 <!---
 saranyanambiarr/saranyanambiarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
