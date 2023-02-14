@@ -21,4 +21,6 @@ saranyanambiarr/saranyanambiarr is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
                                                                                                                                           
+<!--
 ![TwitterBanner](https://user-images.githubusercontent.com/64544937/206134941-e909647a-da02-4d0f-ab0e-4d0d384669de.jpg)
+-->
