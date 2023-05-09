@@ -12,7 +12,7 @@ HOLA !
 
 - 👋 I’m @saranyanambiarr, Software Engineer at LTIMindtree.
 - 👀 I’m interested in DevOps and Product Management.
-- 🌱 I’m currently learning Kubernetes and Economics.
+- 🌱 I’m currently improving my knowledge on Kubernetes and Economics.
 - 💞️ I love speaking at public events and being organiser for the same. Looking to collaborate.
 - 📫 How to reach me : Message me on LinkedIn or Twitter.
 
