@@ -7,7 +7,7 @@ HOLA !
 - 🌱 I’m currently improving my knowledge on Kubernetes and Economics.
 - 💞️ I love speaking at public events and being an organiser for the same.
 - 🤝🏻 I'm looking to collaborate on topics related to DevOps, Cloud Native and Product Management.
-- 📫 How to reach me : Message me on LinkedIn(https://www.linkedin.com/in/saranyanambiar/) or Twitter(witter.com/saranyanambiarr).
+- 📫 How to reach me : Message me on [LinkedIn](https://www.linkedin.com/in/saranyanambiar/) or [Twitter](witter.com/saranyanambiarr).
 
 <!---
 saranyanambiarr/saranyanambiarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
